@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://danielschwartzman.me/",
+  "homepage": "https://danielschwartzman.me/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
@@ -39,5 +39,5 @@
   "engines" : {
     "npm": "6.10.2",
     "node": "10.16.0"
-}
+  } 
 }
