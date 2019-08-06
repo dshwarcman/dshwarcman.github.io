@@ -3,24 +3,24 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faAward } from "@fortawesome/free-solid-svg-icons";
 
 
-class Awards extends Component {
+class Certification extends Component {
   constructor(props) {
     super(props);
 
-    this.awards = props.awards;
+    this.certifications = props.certifications;
   }
 
   render() {
     return(
-      <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+      <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="certifications">
         <div className="w-100">
-          <h2 className="mb-5">Awards &amp; Certifications</h2>
+          <h2 className="mb-5">Certifications</h2>
           <ul className="fa-ul mb-0">
           {
-            this.awards.map((data, index) => (
+            this.certifications.map((data, index) => (
               <li key={index}>
                 <FontAwesomeIcon icon={faAward} color="#ffc107" />
-                <span className="ml-2"> {data.awardDetail} </span>
+                <span className="ml-2"> {data.certificationDetail} </span>
               </li>
             ))
           }
@@ -31,4 +31,4 @@ class Awards extends Component {
   }
 }
 
-export default Awards;
+export default Certification;

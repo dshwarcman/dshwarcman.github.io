@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jerdsh-portfolio/static/css/main.498d002a.chunk.css",
-    "main.js": "/jerdsh-portfolio/static/js/main.7dae7996.chunk.js",
-    "main.js.map": "/jerdsh-portfolio/static/js/main.7dae7996.chunk.js.map",
-    "runtime~main.js": "/jerdsh-portfolio/static/js/runtime~main.d6f8618d.js",
-    "runtime~main.js.map": "/jerdsh-portfolio/static/js/runtime~main.d6f8618d.js.map",
-    "static/js/2.5a08db1e.chunk.js": "/jerdsh-portfolio/static/js/2.5a08db1e.chunk.js",
-    "static/js/2.5a08db1e.chunk.js.map": "/jerdsh-portfolio/static/js/2.5a08db1e.chunk.js.map",
-    "index.html": "/jerdsh-portfolio/index.html",
-    "precache-manifest.15b64d787f07032995889c30b32113c7.js": "/jerdsh-portfolio/precache-manifest.15b64d787f07032995889c30b32113c7.js",
-    "service-worker.js": "/jerdsh-portfolio/service-worker.js",
-    "static/css/main.498d002a.chunk.css.map": "/jerdsh-portfolio/static/css/main.498d002a.chunk.css.map",
-    "static/media/profile.jpg": "/jerdsh-portfolio/static/media/profile.8a396670.jpg"
+    "main.css": "/jerdash-portfolio/static/css/main.498d002a.chunk.css",
+    "main.js": "/jerdash-portfolio/static/js/main.6c3057db.chunk.js",
+    "main.js.map": "/jerdash-portfolio/static/js/main.6c3057db.chunk.js.map",
+    "runtime~main.js": "/jerdash-portfolio/static/js/runtime~main.c7eddda6.js",
+    "runtime~main.js.map": "/jerdash-portfolio/static/js/runtime~main.c7eddda6.js.map",
+    "static/js/2.5a08db1e.chunk.js": "/jerdash-portfolio/static/js/2.5a08db1e.chunk.js",
+    "static/js/2.5a08db1e.chunk.js.map": "/jerdash-portfolio/static/js/2.5a08db1e.chunk.js.map",
+    "index.html": "/jerdash-portfolio/index.html",
+    "precache-manifest.369ee35c1ec69a86d61eb3b83fde258f.js": "/jerdash-portfolio/precache-manifest.369ee35c1ec69a86d61eb3b83fde258f.js",
+    "service-worker.js": "/jerdash-portfolio/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/jerdash-portfolio/static/css/main.498d002a.chunk.css.map",
+    "static/media/profile.jpg": "/jerdash-portfolio/static/media/profile.8a396670.jpg"
   }
 }

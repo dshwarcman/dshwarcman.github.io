@@ -1,12 +1,12 @@
 {
 	"landing": {
-		"firstName": "Anupam",
-		"lastName": "Dagar",
-		"phoneNumber": "+91-0123456789",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
-    "linkedin": "https://linkedin.com/in/anupamdagar",
-		"github": "https://github.com/Anupam-dagar"
+		"firstName": "Daniel",
+		"lastName": "Shwarcman",
+		"phoneNumber": "+972-526052377",
+		"bio": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C#, SQL, JavaScript, Angular. Strong engineering professional with a Bachelor of Science (BS) focused in Computer Software Engineering from \"Azrieli\" Jerusalem College of Engineering.",
+    "email": "dshwarcman@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/daniel-shwarcman-63948887/",
+		"github": "https://github.com/dshwarcman"
 	},
 	"experience": [
 		{
@@ -49,33 +49,27 @@
 			"name": "Javascript"
 		},
 		{
-			"name": "React"
+			"name": "Angular"
 		},
 		{
-			"name": "Nodejs"
+			"name": "C#"
 		},
 		{
-			"name": "Python"
-		},
-		{
-			"name": "Django"
-		},
-		{
-			"name": "Ember"
+			"name": "MS-SQL"
 		}
 	],
 	"interests": {
 		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
 		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
-	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
+	"certifications": [{
+			"certificationDetail": "Hack 36 3rd prize winner."
 		},
 		{
-			"awardDetail": "Mentor OpenCode'19"
+			"certificationDetail": "Mentor OpenCode'19"
 		},
 		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
+			"certificationDetail": "Started North India's First Student Design and Developer Conference."
 		}
 	]
 }

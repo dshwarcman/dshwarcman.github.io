@@ -11,6 +11,7 @@ class Sidebar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        
         <a className="navbar-brand js-scroll-trigger" href="#page-top">
           <span className="d-block d-lg-none">{this.sidebarData.firstName} {this.sidebarData.lastName}</span>
           <span className="d-none d-lg-block">
@@ -38,7 +39,7 @@ class Sidebar extends Component {
               <a className="nav-link js-scroll-trigger" href="#interests">Interests</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#awards">Awards</a>
+              <a className="nav-link js-scroll-trigger" href="#certifications">Certification</a>
             </li>
           </ul>
         </div>
